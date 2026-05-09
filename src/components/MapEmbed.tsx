@@ -32,14 +32,14 @@ export default function MapEmbed() {
             allowFullScreen
             loading="lazy"
             referrerPolicy="no-referrer-when-downgrade"
-            title="Google Maps - Prešernov trg"
+            title="Google Maps - Stone Bridge"
           />
         </div>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">
           <a
-            href="https://maps.app.goo.gl/p9nzsuxxzisR1vNF9"
+            href="https://maps.app.goo.gl/s5V1grAaE7FhjZv79"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-medium text-white transition-colors"
