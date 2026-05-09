@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "title": "Stone Bridge Skopje | Historic Landmark Across the Vardar River - A Must-Visit in the Balkans",
+    "description": "Complete guide to Stone Bridge (Kamen most) in Skopje, North Macedonia. Discover opening hours, transport, tickets, travel tips and stunning photos. Historical bridge, city landmark, pedestrian walkway."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Stone Bridge",
+    "subtitle": "Skopje's Symbol & Historic Landmark of North Macedonia",
+    "rating": "4.7(7,586)",
+    "reviewCount": "7,586 reviews",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Stone Bridge",
+    "description": "The Stone Bridge is where the heart of Skopje beats. Standing on this centuries-old solid structure with the Vardar River flowing beneath, you are presented with two distinct urban canvases.\n\nAt one end lies the vast Macedonia Square, dominated by the towering 'Warrior on a Horse' statue and neoclassical buildings. Cross the bridge to the other end, and you instantly step back into the Middle Ages at the Old Bazaar, surrounded by the call to prayer and the aroma of kebabs and Turkish coffee.\n\nIn the morning, it's a route for joggers and commuters; at night, street musicians play traditional Balkan tunes while couples lean on the railings to admire the city lights. With silent tolerance, the bridge perfectly stitches together Skopje's past and present, East and West.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Early morning or evening at sunset (blue hour) is highly recommended for the best lighting",
+        "The bridge is open 24/7 all year as a public pedestrian walkway",
+        "Completely free of charge, no ticket required",
+        "For clean, empty shots, arrive before 8:00 AM when tourists are few"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "The absolute symbol of Skopje, featured on the city's coat of arms",
+        "Built in the 15th century during the Ottoman Empire, over 600 years of history",
+        "214 meters long with 12 elegant semicircular arches",
+        "Core connection between Macedonia Square (new town) and Old Bazaar (old town)"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Stone Bridge",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Centuries of History",
+        "content": "Although the current bridge was mostly built in the late 15th century (1451-1469), archaeological evidence suggests its foundations may rest on an older Roman bridge. Built under Ottoman Sultan Mehmed II, it has been a crucial transport hub across the Vardar River.\n\nA massive earthquake in 1555 collapsed some arches, which were later repaired. In 1944, retreating Nazi troops rigged the bridge with explosives, but local patriots saved it from destruction. In recent years, it has undergone careful maintenance to preserve its original appearance, continuing to witness centuries of history and ethnic integration in Skopje."
+      },
+      {
+        "id": "architecture",
+        "title": "Architectural Features",
+        "content": "The bridge is 214 meters long and 6 meters wide, built of solid stone blocks. It features 12 elegant semicircular arches supported by massive columns. A former guard tower, once used for executions or decrees, is located in the center.\n\nClassic Ottoman-era stone bridge architecture. Structurally solid and visually smooth, it has withstood centuries of floods and earthquakes, showcasing the symmetry and solemnity of classical aesthetics. Every stone carries the memory of history, representing an outstanding example of Ottoman architectural art."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "More than just a structure, it is a metaphorical 'bond' connecting the modern, predominantly Orthodox southern bank (Macedonia Square) with the Ottoman-style, predominantly Muslim northern bank (Old Bazaar), epitomizing the multicultural convergence of the Balkans.\n\nFor centuries, the bridge has witnessed Skopje's historical transformation from the Ottoman Empire to the Yugoslav period, to independent North Macedonia. It serves as both a vital pathway for locals and the best place for visitors to experience Skopje's multiculturalism. Evening street music performances and traditional activities on the bridge showcase the city's living cultural heritage."
+      },
+      {
+        "id": "experience",
+        "title": "Essential Experiences",
+        "content": "In the early morning, the bridge is a route for joggers and commuters, full of life. Standing in the center of the bridge, look east and west to see other bridges on the Vardar River (like the artistic Bridge of Art) and the monumental buildings along the riverbanks.\n\nCross to the north bank, and you instantly travel from the modern new town to the Old Bazaar full of Ottoman charm. In the maze of cobblestone alleys, discover Ottoman-style mosques, ancient inns (Han), and craft shops. Finding a traditional restaurant in the Old Bazaar to try Cevapi (grilled minced meat) and Turkish tea is the perfect way to end your walking tour."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Камен мост (Kamen most) / Stone Bridge",
+    "type": "Type",
+    "typeValue": "Historical Bridge, City Landmark, Pedestrian Bridge",
+    "country": "Country",
+    "countryValue": "North Macedonia",
+    "city": "City",
+    "cityValue": "Skopje",
+    "googleRating": "Google Rating",
+    "phone": "Phone",
+    "phoneValue": "+389 2 320 0299 (Skopje Tourist Info Center)",
+    "address": "Address",
+    "addressValue": "Stone Bridge, Skopje 1000, North Macedonia"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Bridge Access",
+    "outdoorTime": "Open year-round, 24/7 as a public pedestrian walkway, no access restrictions",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Recommended Time",
+    "summerTime": "Early morning or evening at sunset (blue hour) when riverbank lights are on",
+    "winter": "Note",
+    "winterTime": "It can be windy on the bridge; dress warmly in winter",
+    "warning": "Visiting Recommendations",
+    "warningTime": "Visit in early morning or evening for the best lighting, ideal for photography and cityscape views",
+    "tip": "The bridge is completely free, no ticket required"
+  },
+  "tickets": {
+    "title": "Admission Prices",
+    "outdoor": "Bridge Access",
+    "outdoorPrice": "Completely free of charge, no ticket required",
+    "lighthouse": "Surrounding Attractions",
+    "adults": "Old Bazaar Visit",
+    "adultsPrice": "Old Bazaar is free to enter; some museums and mosques may charge admission",
+    "students": "Students",
+    "studentsPrice": "Student discounts available at surrounding museums",
+    "children": "Children",
+    "childrenPrice": "Free for children under 12",
+    "card": "Skopje City Card",
+    "cardPrice": "Can offset entrance fees at select museums, ideal for multi-attraction travelers"
+  },
+  "transport": {
+    "title": "Getting There",
+    "airport": "From Skopje International Airport",
+    "airportDesc": "The airport (SKP) is about 20 km from the center. Take the Wizz Air shuttle bus to the central bus station (approx. 40 mins, 3 EUR), then walk 15 mins to the bridge. Alternatively, take an official taxi directly to Macedonia Square (25 mins, fixed rate 20-25 EUR).",
+    "selfDrive": "From City Center",
+    "selfDriveDesc": "Located in the absolute heart of Skopje, connecting Macedonia Square (new town) and the Old Bazaar (old town). All central attractions are within easy walking distance.",
+    "bus": "Public Bus",
+    "busDesc": "Take various city buses (e.g., 2, 4, 5, 15) to the 'Rekord' stop or near the square, then walk 3 minutes to the bridge.",
+    "intercity": "Cycling",
+    "intercityDesc": "The riverbanks are great for cycling and walking. With extra time, walk along the riverside path to the City Park.",
+    "cycling": "Walking",
+    "cyclingDesc": "The bridge is in the city center, easily accessible from Macedonia Square on foot. It's the perfect starting point for exploring both new and old towns.",
+    "tips": "Travel Tips",
+    "tipsDesc": "The bridge is in the city center core—walking is recommended. The Vardar River banks are great for cycling and walking, connecting multiple attractions."
+  },
+  "route": {
+    "title": "Walking Route",
+    "overview": "A 2-3 hour city walking tour centered around the bridge is recommended. Start from Macedonia Square on the south bank, cross the bridge, admire the statues and buildings along the Vardar River, and finally enter the Old Bazaar on the north bank to taste local food and experience a seamless historical transition.",
+    "steps": [
+      "Start at Macedonia Square on the south bank and check in at the iconic 'Warrior on a Horse' fountain statue",
+      "Step onto the bridge, stop in the middle, and look east and west at other bridges and buildings along the river",
+      "Take a photo on the bridge with the Skopje Fortress in the background",
+      "Cross to the north bank to visit the Monument of Justinian I and the Holocaust Memorial Center near the bridgehead",
+      "Dive into the Old Bazaar, exploring Ottoman-style mosques, ancient inns (Han), and craft shops in the maze of cobblestone alleys",
+      "Find a traditional restaurant in the Old Bazaar to try Cevapi and Turkish tea to end the walking tour",
+      "If time permits, continue to Skopje Fortress for a panoramic view of the city and Vardar River",
+      "Walk back to Macedonia Square along the riverside path, completing the perfect city walking tour"
+    ],
+    "supplementsTitle": "Visiting Guidelines",
+    "supplements": [
+      "It can be windy on the bridge; dress warmly in winter. There is no shade in summer, so sun protection is necessary",
+      "The riverbanks are great for cycling and walking. With extra time, walk along the riverside path to the City Park",
+      "The bridge has high foot traffic. For clean, empty shots, arrive before 8:00 AM",
+      "The river is fuller in summer, providing better reflections. Skopje is often called the 'City of Statues'; use the dramatic statues at the bridgeheads as foregrounds",
+      "Some parts of the Old Bazaar are dimly lit at night, and the morning call to prayer can be heard. If you need absolute silence for sleep, choose modern hotels on the south bank near the square"
+    ]
+  },
+  "photoSpots": {
+    "title": "Photo Spots",
+    "spots": [
+      {
+        "name": "Bridgehead at Macedonia Square",
+        "desc": "Use the bridge as the mid-ground and the Old Town and Fortress as the background for a layered cityscape"
+      },
+      {
+        "name": "Riverside Path",
+        "desc": "Shoot upwards from the riverbank to capture the continuous semicircular arches and their reflection on the water"
+      },
+      {
+        "name": "Center of the Bridge",
+        "desc": "In the early morning with few tourists, stand in the center and use the railing lines for a symmetrical shot leading to the Old Bazaar"
+      },
+      {
+        "name": "Night Long Exposure",
+        "desc": "Set up a tripod on a nearby pedestrian bridge to capture the illuminated Stone Bridge and light trails on the river"
+      },
+      {
+        "name": "Old Bazaar Entrance",
+        "desc": "Look back at the bridge from the Old Bazaar side, using Ottoman-style buildings as foreground to show the bridge's role connecting old and new"
+      }
+    ],
+    "tips": "Photography Tips",
+    "tipsContent": "The river is fuller in summer, providing better reflections. Skopje is often called the 'City of Statues'; use the dramatic statues at the bridgeheads as foregrounds. The bridge has high foot traffic—for empty shots, arrive before 8:00 AM. For night photography, ensure safety and secure your tripod."
+  },
+  "hotels": {
+    "title": "Where to Stay",
+    "hotels": [
+      {
+        "name": "Modern & Convenient: Around Macedonia Square",
+        "desc": "Located in the new town center with many upscale and chain hotels. Extremely convenient for dining and shopping, with views of the square and bridge",
+        "price": "Prices vary by season, but North Macedonia has very low prices in Europe—excellent value"
+      },
+      {
+        "name": "Vintage Vibe: Inside the Old Bazaar",
+        "desc": "Many boutique guesthouses converted from traditional Ottoman inns or mansions. Affordable and full of exotic charm, ideal for backpackers and culture lovers",
+        "price": "Affordable, suitable for budget travelers"
+      },
+      {
+        "name": "River Views: Along the Vardar River",
+        "desc": "Modern apartments and hotels along the river offer wide views. Great for morning or evening jogs along the riverbank",
+        "price": "Prices vary by season, usually very affordable"
+      },
+      {
+        "name": "Luxury Choice: International Brand Hotels in City Center",
+        "desc": "Several international brand hotels in Skopje offering high-quality service and facilities, ideal for business travelers and those seeking comfort",
+        "price": "Prices vary by season"
+      }
+    ],
+    "supplements": "Accommodation Tips",
+    "supplementsContent": "Skopje's overall prices are among the lowest in Europe, offering excellent value. Five-star hotels or premium river-view apartments in the center are usually very affordable. Some parts of the Old Bazaar are dimly lit at night, and the morning call to prayer can be heard. If you need absolute silence for sleep, choose modern hotels on the south bank near the square. Choose accommodation between Macedonia Square and the Old Bazaar for easy walking access to the Stone Bridge, Old Bazaar, and Skopje Fortress."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Stone Bridge City Views & Cultural Heritage",
+    "captions": [
+      "Stone Bridge Panorama",
+      "Bridge & Vardar River",
+      "Macedonia Square & Bridge",
+      "Old Bazaar Entrance",
+      "Bridge at Night",
+      "Ottoman Architecture",
+      "Bridge Arch Details",
+      "Riverside Path"
+    ],
+    "viewAll": "View Location on Google Maps"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information is available on Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "John Smith",
+        "date": "March 2026",
+        "rating": 5,
+        "text": "Absolutely breathtaking! This 600-year-old stone bridge is the soul of Skopje. Standing on the bridge, you see the modern Macedonia Square on one side and the ancient Old Bazaar on the other—an unparalleled time-travel feeling."
+      },
+      {
+        "name": "Emma Wilson",
+        "date": "February 2026",
+        "rating": 5,
+        "text": "The highlight of my Balkan trip! The bridge's architecture is spectacular, with 12 semicircular arches showcasing exquisite Ottoman craftsmanship. Evening photography on the bridge with the city lights is simply stunning."
+      },
+      {
+        "name": "Michael Brown",
+        "date": "January 2026",
+        "rating": 5,
+        "text": "A gem among free attractions! The Stone Bridge connects Skopje's past and present. Walking on the bridge feels like traveling through time. Don't miss the Cevapi and Turkish tea in the Old Bazaar."
+      },
+      {
+        "name": "Sarah Davis",
+        "date": "December 2025",
+        "rating": 4,
+        "text": "A great city landmark. Especially beautiful when there are few people in the early morning. The view from the bridge is excellent, overlooking the entire Vardar River and riverside buildings. Highly recommend including it in your Skopje walking route."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Getting Here",
+    "subtitle": "Stone Bridge, Skopje 1000, North Macedonia",
+    "openMaps": "Open in Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Stone Bridge Independent Travel Research Association. All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "council": "North Macedonia Tourism",
+      "tourism": "Visit Skopje",
+      "england": "Visit North Macedonia"
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Information Collection",
+        "content": "We typically do not actively collect personally identifiable information. Any information you provide through contact forms or email will be kept strictly confidential."
+      },
+      {
+        "heading": "2. Information Use",
+        "content": "Information collected is used solely to provide, maintain and improve our services, and to communicate with you. We do not sell or share your personal information with third parties for marketing purposes."
+      },
+      {
+        "heading": "3. Cookies and Tracking Technologies",
+        "content": "We use cookies and similar tracking technologies to track activity on our website and store certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+      },
+      {
+        "heading": "4. Data Security",
+        "content": "The security of your data is important to us. We strive to use commercially acceptable means to protect your personal data, but no method of internet transmission is 100% secure."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service. If you do not agree to any part of these terms, you may not access the service."
+      },
+      {
+        "heading": "2. Use of Service",
+        "content": "This website is an independent third-party travel information project. Information provided is for general reference only. You agree to use this website responsibly and lawfully."
+      },
+      {
+        "heading": "3. Intellectual Property",
+        "content": "All content on this website (including text, images and logos) is the property of the website owner (unless otherwise stated). Unauthorized use, copying or distribution is strictly prohibited."
+      },
+      {
+        "heading": "4. Limitation of Liability",
+        "content": "We are not liable for any direct, indirect, incidental or consequential damages arising from the use or inability to use this website or information contained within it."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "Help us understand how visitors interact with the website."
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "Used to track visitors across websites."
+    },
+    "save": "Save Settings",
+    "saved": "Settings saved!"
+  },
+  "officialManagement": {
+    "title": "About Stone Bridge",
+    "text": "Stone Bridge is managed and maintained by the Skopje City Government. It is one of the most important historical landmarks in North Macedonia's capital.\n\nAs the absolute symbol of Skopje, the bridge's image is featured on the city's coat of arms. Built in the 15th century during the Ottoman Empire, it has over 600 years of history, witnessing Skopje's transformation from the Middle Ages to the modern era. Today, the bridge is open as a public pedestrian walkway, an excellent destination for experiencing the multicultural charm of the Balkans and the urban vitality of Skopje."
+  }
+}
