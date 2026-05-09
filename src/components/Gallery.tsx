@@ -4,18 +4,18 @@ import { useTranslations } from 'next-intl';
 import { useState, useCallback } from 'react';
 
 const photos = [
-  { src: '/gallery/images (1).jpg', alt: '普列舍伦广场全景' },
-  { src: '/gallery/images (2).jpg', alt: '三重桥与广场' },
-  { src: '/gallery/images (3).jpg', alt: '普列舍伦青铜雕像' },
-  { src: '/gallery/images (4).jpg', alt: '方济各会教堂' },
-  { src: '/gallery/images (5).jpg', alt: '乌尔班茨大楼' },
-  { src: '/gallery/images (6).jpg', alt: '广场夜景' },
-  { src: '/gallery/images (7).jpg', alt: '中央药房建筑' },
-  { src: '/gallery/images (8).jpg', alt: '广场咖啡馆' },
-  { src: '/gallery/images (9).jpg', alt: '卢布尔雅那河畔' },
-  { src: '/gallery/images (10).jpg', alt: '中世纪老城街道' },
-  { src: '/gallery/images (11).jpg', alt: '城市风光' },
-  { src: '/gallery/images (12).jpg', alt: '浪漫欧洲夜生活' },
+  { src: '/gallery/images (1).jpg', alt: 'Stone Bridge Panorama' },
+  { src: '/gallery/images (2).jpg', alt: 'Bridge & Vardar River' },
+  { src: '/gallery/images (3).jpg', alt: 'Macedonia Square & Bridge' },
+  { src: '/gallery/images (4).jpg', alt: 'Old Bazaar Entrance' },
+  { src: '/gallery/images (5).jpg', alt: 'Bridge at Night' },
+  { src: '/gallery/images (6).jpg', alt: 'Ottoman Architecture' },
+  { src: '/gallery/images (7).jpg', alt: 'Bridge Arch Details' },
+  { src: '/gallery/images (8).jpg', alt: 'Riverside Path' },
+  { src: '/gallery/images (9).jpg', alt: 'Stone Bridge Close-up' },
+  { src: '/gallery/images (10).jpg', alt: 'Historical View' },
+  { src: '/gallery/images (11).jpg', alt: 'Cityscape from Bridge' },
+  { src: '/gallery/images (12).jpg', alt: 'Evening Stroll' },
 ];
 
 export default function Gallery() {
