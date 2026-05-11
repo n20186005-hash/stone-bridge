@@ -21,13 +21,13 @@ export default function Footer() {
               {t('officialResourcesTitle')}
             </p>
             <div className="flex flex-col gap-2">
-              <a href="https://www.visitdenmark.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://tourismmacedonia.gov.mk/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.council')}
               </a>
-              <a href="https://www.visitcopenhagen.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://visit-skopje.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.tourism')}
               </a>
-              <a href="https://www.copenhagencard.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
+              <a href="https://macedoniatourism.com/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.england')}
               </a>
             </div>
